@@ -1,5 +1,4 @@
-# ✨ Hola, 
-# soy Pablo Pérez.
+# ✨ Pablo Pérez
 
 👨‍💻 Administrador de sistemas Jr. | Soporte N2 | Seguridad y Monitorización
 🛡️ En proceso de especialización en detección de amenazas y análisis forense

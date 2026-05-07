@@ -36,12 +36,17 @@
 
 ---
 
-### 🚀 Mis Proyectos
-
-* **Automatización de Backups:** Desarrollo de script en Bash para la transferencia automatizada vía SMB/FTP entre entornos Ubuntu y Windows Server.
+### 🚀 Mis pequeños hitos (creciendo poco a poco)
 * **Laboratorio de Seguridad (TFG ASIR):** Diseño de infraestructura simulada con pfSense e IDS Snort para detección de tráfico sospechoso y monitorización con Nagios Core.
-* **Stack de Monitorización en Docker:** Implementación de Grafana y Prometheus en un entorno controlado para simulación de incidentes y análisis de eventos.
-* **Virtualización:** Implementación de servidor Proxmox VE con Ubuntu Server, Apache y Nagios para la monitorización de infraestructura por SNMP.
+* **Automatización de Backups:** Desarrollo de script en Bash para la transferencia automatizada vía SMB/FTP entre entornos Ubuntu y Windows Server.
+
+## 🔬 Home Labs y Experimentación Continua
+No todo mi aprendizaje se documenta en repositorios. Para investigar, realizar pruebas de concepto (*PoC*) y aplicar nuevos conocimientos técnicos, mantengo un laboratorio físico en casa. Reacondicioné un equipo portátil obsoleto y dañado a nivel de hardware, reconvirtiéndolo en mi servidor principal (Bare-Metal). Actualmente, en este entorno he desplegado y administrado:
+
+* 🖥️ **Virtualización y Gestión de Recursos:** Implementación de **Proxmox VE** como hipervisor tipo 1 para gestionar y aislar múltiples máquinas virtuales y contenedores LXC.
+* 🐳 **Stack de Monitorización en Docker:** Despliegue mediante contenedores de **Grafana** y **Prometheus** en un entorno aislado, enfocado en el análisis de eventos, creación de *dashboards* y simulación de incidentes.
+* 📊 **Supervisión de Infraestructura (SNMP):** Despliegue de **Ubuntu Server** con Apache y **Nagios** para monitorizar el estado, tráfico y rendimiento del propio laboratorio y la red local mediante el protocolo SNMP.
+
 
 ---
 

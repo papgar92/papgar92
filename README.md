@@ -1,35 +1,36 @@
-# [cite_start]✨ Hola, soy Pablo Pérez García [cite: 1, 2]
+# ✨ Hola, 
+# soy Pablo Pérez.
 
-👨‍💻 Administrador de sistemas Jr. | Soporte N2 | [cite_start]Seguridad y Monitorización [cite: 3]
-[cite_start]🛡️ En proceso de especialización en detección de amenazas y análisis forense [cite: 6]
-[cite_start]☁️ Experto en entornos Microsoft, migraciones a Cloud y gestión de identidades [cite: 4, 5, 12]
+👨‍💻 Administrador de sistemas Jr. | Soporte N2 | Seguridad y Monitorización
+🛡️ En proceso de especialización en detección de amenazas y análisis forense
+☁️ Experto en entornos Microsoft, migraciones a Cloud y gestión de identidades
 
 ---
 
 ### 💡 Sobre mí
 
-* [cite_start]Soy un Técnico IT con experiencia en soporte N1-N2 en entornos Microsoft, con gran capacidad de análisis y pensamiento crítico[cite: 4, 121].
-* [cite_start]Me especializo en la gestión de identidades con Active Directory y Entra ID, así como en la administración de dispositivos con Intune y GPOs[cite: 5, 10].
-* [cite_start]Disfruto creando laboratorios caseros (Home labs) para la simulación de incidentes, implementación de firewalls (pfSense) y monitorización de infraestructuras (Nagios, Zabbix)[cite: 13, 88, 90, 91, 99, 100].
-* [cite_start]Destaco por mi autonomía, organización, proactividad y mi fuerte interés en la formación continua[cite: 124, 125].
+* Soy un Técnico IT con experiencia en soporte N1-N2 en entornos Microsoft, con gran capacidad de análisis y pensamiento crítico.
+* Me especializo en la gestión de identidades con Active Directory y Entra ID, así como en la administración de dispositivos con Intune y GPOs.
+* Disfruto creando laboratorios caseros (Home labs) para la simulación de incidentes, implementación de firewalls (pfSense) y monitorización de infraestructuras (Nagios, Zabbix).
+* Destaco por mi autonomía, organización, proactividad y mi fuerte interés en la formación continua.
 
 ---
 
 ### 🛠️ Tecnologías y Herramientas
 
-[cite_start]**Sistemas y Cloud** [cite: 9, 11]
+**Sistemas y Cloud**
 ![Windows Server](https://img.shields.io/badge/Windows%20Server-%230078D6.svg?style=for-the-badge&logo=windows&logoColor=white)
 ![Azure](https://img.shields.io/badge/microsoft%20azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 
-[cite_start]**Seguridad y Monitorización** [cite: 13]
+**Seguridad y Monitorización**
 ![pfSense](https://img.shields.io/badge/pfSense-%23000000.svg?style=for-the-badge&logo=pfsense&logoColor=white)
 ![Zabbix](https://img.shields.io/badge/Zabbix-%23D40000.svg?style=for-the-badge&logo=zabbix&logoColor=white)
 ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white)
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
 
-[cite_start]**Virtualización, Scripting y Desarrollo** [cite: 13, 14, 15, 72]
+**Virtualización, Scripting y Desarrollo**
 ![VMware](https://img.shields.io/badge/vmware-%23607078.svg?style=for-the-badge&logo=vmware&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white)
@@ -40,10 +41,10 @@
 
 ### 🚀 Mis Proyectos
 
-* [cite_start]**Automatización de Backups:** Desarrollo de script en Bash para la transferencia automatizada vía SMB/FTP entre entornos Ubuntu y Windows Server[cite: 75, 78, 79].
-* [cite_start]**Laboratorio de Seguridad (TFG ASIR):** Diseño de infraestructura simulada con pfSense e IDS Snort para detección de tráfico sospechoso y monitorización con Nagios Core[cite: 95, 98, 99, 100].
-* [cite_start]**Stack de Monitorización en Docker:** Implementación de Grafana y Prometheus en un entorno controlado para simulación de incidentes y análisis de eventos[cite: 91, 92, 93].
-* [cite_start]**Virtualización:** Implementación de servidor Proxmox VE con Ubuntu Server, Apache y Nagios para la monitorización de infraestructura por SNMP[cite: 81, 84, 85, 86].
+* **Automatización de Backups:** Desarrollo de script en Bash para la transferencia automatizada vía SMB/FTP entre entornos Ubuntu y Windows Server.
+* **Laboratorio de Seguridad (TFG ASIR):** Diseño de infraestructura simulada con pfSense e IDS Snort para detección de tráfico sospechoso y monitorización con Nagios Core.
+* **Stack de Monitorización en Docker:** Implementación de Grafana y Prometheus en un entorno controlado para simulación de incidentes y análisis de eventos.
+* **Virtualización:** Implementación de servidor Proxmox VE con Ubuntu Server, Apache y Nagios para la monitorización de infraestructura por SNMP.
 
 ---
 

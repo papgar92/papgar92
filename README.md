@@ -1,7 +1,9 @@
 # ✨ Pablo Pérez
 
 👨‍💻 Administrador de sistemas | Soporte N1-N2 | Seguridad y Monitorización
+
 🛡️ En proceso de especialización en detección de amenazas y análisis forense
+
 ☁️ Experiencia con entornos Microsoft, migraciones a Cloud y gestión de identidades
 
 ---

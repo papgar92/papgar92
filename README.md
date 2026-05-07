@@ -1,15 +1,15 @@
 # ✨ Pablo Pérez
 
-👨‍💻 Administrador de sistemas Jr. | Soporte N2 | Seguridad y Monitorización
+👨‍💻 Administrador de sistemas | Soporte N1-N2 | Seguridad y Monitorización
 🛡️ En proceso de especialización en detección de amenazas y análisis forense
-☁️ Experto en entornos Microsoft, migraciones a Cloud y gestión de identidades
+☁️ Experiencia con entornos Microsoft, migraciones a Cloud y gestión de identidades
 
 ---
 
 ### 💡 Sobre mí
 
 * Soy un Técnico IT con experiencia en soporte N1-N2 en entornos Microsoft, con gran capacidad de análisis y pensamiento crítico.
-* Me especializo en la gestión de identidades con Active Directory y Entra ID, así como en la administración de dispositivos con Intune y GPOs.
+* Tengo experiencia en la gestión de identidades con Active Directory y Entra ID, así como en la administración de dispositivos con Intune y GPOs.
 * Disfruto creando laboratorios caseros (Home labs) para la simulación de incidentes, implementación de firewalls (pfSense) y monitorización de infraestructuras (Nagios, Zabbix).
 * Destaco por mi autonomía, organización, proactividad y mi fuerte interés en la formación continua.
 

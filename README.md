@@ -1,4 +1,11 @@
 # ✨ Pablo Pérez
+### 📫 Localízame
+
+[![Portfolio](https://img.shields.io/badge/Mi_Portfolio-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white)](https://papgar92.github.io/portfolio/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ppg92)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:perez.gcia@gmail.com)
+
+---
 
 👨‍💻 Administrador de sistemas | Soporte N1-N2 | Seguridad y Monitorización
 
@@ -54,12 +61,5 @@ No todo mi aprendizaje se documenta en repositorios. Para investigar, realizar p
 
 ---
 
-### 📫 Localízame
-
-[![Portfolio](https://img.shields.io/badge/Mi_Portfolio-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white)](https://papgar92.github.io/portfolio/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ppg92)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:perez.gcia@gmail.com)
-
----
 
 > *"Siempre buscando nuevos retos en la intersección entre los sistemas, la monitorización y la ciberseguridad."*

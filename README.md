@@ -37,8 +37,8 @@
 ---
 
 ## 🚀 Mis pequeños hitos (creciendo poco a poco)
-* **Laboratorio de Seguridad (TFG ASIR):** Diseño de infraestructura simulada con pfSense e IDS Snort para detección de tráfico sospechoso y monitorización con Nagios Core.
-* **Automatización de Backups:** Desarrollo de script en Bash para la transferencia automatizada vía SMB/FTP entre entornos Ubuntu y Windows Server.
+* **[`Laboratorio de Seguridad (TFG ASIR):`](https://github.com/papgar92/TFG-Arquitectura-Defensiva---Blue-Team)** Diseño de infraestructura simulada con pfSense e IDS Snort para detección de tráfico sospechoso y monitorización con Nagios Core.
+* **[`Automatización de Backups:`](https://github.com/papgar92/Backup-Ubuntu-Server-Windows-server)** Desarrollo de script en Bash para la transferencia automatizada vía SMB/FTP entre entornos Ubuntu y Windows Server.
 
 ---
 

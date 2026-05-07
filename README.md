@@ -36,13 +36,13 @@
 
 ---
 
-## 🚀 Mis pequeños hitos (creciendo poco a poco)
+## 🚀 Mis hitos (creciendo poco a poco)
 * **[`Laboratorio de Seguridad (TFG ASIR):`](https://github.com/papgar92/TFG-Arquitectura-Defensiva---Blue-Team)** Diseño de infraestructura simulada con pfSense e IDS Snort para detección de tráfico sospechoso y monitorización con Nagios Core.
 * **[`Automatización de Backups:`](https://github.com/papgar92/Backup-Ubuntu-Server-Windows-server)** Desarrollo de script en Bash para la transferencia automatizada vía SMB/FTP entre entornos Ubuntu y Windows Server.
 
 ---
 
-## 🔬 Home Labs y Experimentación Continua
+## 🔬 Mis pequeños laboratorios ("jugando" y aprendiendo continuamente):
 No todo mi aprendizaje se documenta en repositorios. Para investigar, realizar pruebas de concepto (*PoC*) y aplicar nuevos conocimientos técnicos, mantengo un laboratorio físico en casa. Reacondicioné un equipo portátil obsoleto y dañado a nivel de hardware, reconvirtiéndolo en mi servidor principal (Bare-Metal). Actualmente, en este entorno he desplegado y administrado:
 
 * 🖥️ **Virtualización y Gestión de Recursos:** Implementación de **Proxmox VE** como hipervisor tipo 1 para gestionar y aislar múltiples máquinas virtuales y contenedores LXC.

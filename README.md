@@ -36,9 +36,11 @@
 
 ---
 
-### 🚀 Mis pequeños hitos (creciendo poco a poco)
+## 🚀 Mis pequeños hitos (creciendo poco a poco)
 * **Laboratorio de Seguridad (TFG ASIR):** Diseño de infraestructura simulada con pfSense e IDS Snort para detección de tráfico sospechoso y monitorización con Nagios Core.
 * **Automatización de Backups:** Desarrollo de script en Bash para la transferencia automatizada vía SMB/FTP entre entornos Ubuntu y Windows Server.
+
+---
 
 ## 🔬 Home Labs y Experimentación Continua
 No todo mi aprendizaje se documenta en repositorios. Para investigar, realizar pruebas de concepto (*PoC*) y aplicar nuevos conocimientos técnicos, mantengo un laboratorio físico en casa. Reacondicioné un equipo portátil obsoleto y dañado a nivel de hardware, reconvirtiéndolo en mi servidor principal (Bare-Metal). Actualmente, en este entorno he desplegado y administrado:

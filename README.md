@@ -48,8 +48,8 @@
 ## 🚀 Mis hitos (creciendo poco a poco)
 * **[`Laboratorio de Seguridad (TFG ASIR):`](https://github.com/papgar92/TFG-Arquitectura-Defensiva---Blue-Team)** Diseño de infraestructura simulada con pfSense e IDS Snort para detección de tráfico sospechoso y monitorización con Nagios Core.
 * **[`Automatización de Backups:`](https://github.com/papgar92/Backup-Ubuntu-Server-Windows-server)** Desarrollo de script en Bash para la transferencia automatizada vía SMB/FTP entre entornos Ubuntu y Windows Server.
-* **[`Python_Detector de ataques de fuerza bruta SSH:`](https://github.com/papgar92/Detector-Fuerza-bruta-SSH)** Desarrollo de código en pyhton para la detección de ataques de fuerza bruta SSH. Ejecución del labotario en un entorno de desarrollo. 
-
+* **[`Python_Detector de ataques de fuerza bruta SSH:`](https://github.com/papgar92/Detector-Fuerza-bruta-SSH)** Desarrollo de código en pyhton para la detección de ataques de fuerza bruta SSH. Ejecución del labotario en un entorno de desarrollo.
+* * **[`Soc Monitoring Lab:`]([https://github.com/papgar92/Detector-Fuerza-bruta-SSH](https://github.com/papgar92/soc-monitoring-lab))** Diseño y despliegue de un SOC en entorno Proxmox (LXC) utilizando un stack 100% open-source
 ---
 
 ## 🔬 Mis pequeños laboratorios ("jugando" y aprendiendo continuamente):

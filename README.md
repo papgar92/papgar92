@@ -1,27 +1,28 @@
-# ✨ Pablo Pérez
+# ✨ Pablo Pérez García
+
 ### 📫 Localízame
 
-[![Portfolio Infraestructura](https://img.shields.io/badge/Mi_Portfolio-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white)](https://pabloperez-infra.vercel.app/#)
-[![Portfolio Ciberseguridad](https://img.shields.io/badge/Mi_Portfolio-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white)](https://pabloperez-ciber.vercel.app/#)
+[![Portfolio Infraestructura](https://img.shields.io/badge/Portfolio_Infraestructura-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white)](https://pabloperez-infra.vercel.app/)
+[![Portfolio Ciberseguridad](https://img.shields.io/badge/Portfolio_Ciberseguridad-34A853?style=for-the-badge&logo=googlechrome&logoColor=white)](https://pabloperez-ciber.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ppg92)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:perez.gcia+github@gmail.com)
 
 ---
 
-👨‍💻 Administrador de sistemas | Soporte N1-N2 | Seguridad y Monitorización
+👨‍💻 **Administrador de Sistemas / Soporte IT** · Entornos Microsoft · Redes y Monitorización
 
-🛡️ En proceso de especialización en detección de amenazas y análisis forense
+☁️ Experiencia en Active Directory, virtualización, gestión de identidades y migraciones a Cloud
 
-☁️ Experiencia con entornos Microsoft, migraciones a Cloud y gestión de identidades
+🛡️ Con un pie en la ciberseguridad defensiva: me formo en detección y análisis para administrar con criterio de seguridad
 
 ---
 
 ### 💡 Sobre mí
 
-* Soy un Técnico IT con experiencia en soporte N1-N2 en entornos Microsoft, con gran capacidad de análisis y pensamiento crítico.
-* Tengo experiencia en la gestión de identidades con Active Directory y Entra ID, así como en la administración de dispositivos con Intune y GPOs.
-* Disfruto creando laboratorios caseros (Home labs) para la simulación de incidentes, implementación de firewalls (pfSense) y monitorización de infraestructuras (Nagios, Zabbix).
-* Destaco por mi autonomía, organización, proactividad y mi fuerte interés en la formación continua.
+- Técnico IT con experiencia en soporte N1-N2 en entornos Microsoft, con fuerte capacidad de análisis y pensamiento crítico.
+- Administración de identidades y dispositivos con **Active Directory**, **Entra ID**, **Intune** y **GPOs**.
+- Me apasiona montar **home labs** para virtualizar, monitorizar infraestructuras (Nagios, Zabbix) y trastear con firewalls (pfSense) — aprendo rompiendo y reconstruyendo.
+- Autónomo, organizado y proactivo, con un interés genuino por la formación continua.
 
 ---
 
@@ -33,7 +34,7 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 
-**Seguridad y Monitorización**
+**Redes y Monitorización**
 ![pfSense](https://img.shields.io/badge/pfSense-%23000000.svg?style=for-the-badge&logo=pfsense&logoColor=white)
 ![Zabbix](https://img.shields.io/badge/Zabbix-%23D40000.svg?style=for-the-badge&logo=zabbix&logoColor=white)
 ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white)
@@ -46,22 +47,23 @@
 
 ---
 
-## 🚀 Mis hitos (creciendo poco a poco)
-* **[`Laboratorio de Seguridad (TFG ASIR):`](https://github.com/papgar92/TFG-Arquitectura-Defensiva---Blue-Team)** Diseño de infraestructura simulada con pfSense e IDS Snort para detección de tráfico sospechoso y monitorización con Nagios Core.
-* **[`Automatización de Backups:`](https://github.com/papgar92/Backup-Ubuntu-Server-Windows-server)** Desarrollo de script en Bash para la transferencia automatizada vía SMB/FTP entre entornos Ubuntu y Windows Server.
-* **[`Python_Detector de ataques de fuerza bruta SSH:`](https://github.com/papgar92/Detector-Fuerza-bruta-SSH)** Desarrollo de código en pyhton para la detección de ataques de fuerza bruta SSH. Ejecución del labotario en un entorno de desarrollo.
-* * **[`Soc Monitoring Lab:`]([https://github.com/papgar92/Detector-Fuerza-bruta-SSH](https://github.com/papgar92/soc-monitoring-lab))** Diseño y despliegue de un SOC en entorno Proxmox (LXC) utilizando un stack 100% open-source
----
+## 🚀 Proyectos destacados
 
-## 🔬 Mis pequeños laboratorios ("jugando" y aprendiendo continuamente):
-No todo mi aprendizaje se documenta en repositorios. Para investigar, realizar pruebas de concepto (*PoC*) y aplicar nuevos conocimientos técnicos, mantengo un laboratorio físico en casa. Reacondicioné un equipo portátil obsoleto y dañado a nivel de hardware, reconvirtiéndolo en mi servidor principal (Bare-Metal). Actualmente, en este entorno he desplegado y administrado:
-
-* 🖥️ **Virtualización y Gestión de Recursos:** Implementación de **Proxmox VE** como hipervisor tipo 1 para gestionar y aislar múltiples máquinas virtuales y contenedores LXC.
-* 🐳 **Stack de Monitorización en Docker:** Despliegue mediante contenedores de **Grafana** y **Prometheus** en un entorno aislado, enfocado en el análisis de eventos, creación de *dashboards* y simulación de incidentes.
-* 📊 **Supervisión de Infraestructura (SNMP):** Despliegue de **Ubuntu Server** con Apache y **Nagios** para monitorizar el estado, tráfico y rendimiento del propio laboratorio y la red local mediante el protocolo SNMP.
-
+- **[Laboratorio de Seguridad — TFG ASIR](https://github.com/papgar92/TFG-Arquitectura-Defensiva---Blue-Team)** · Infraestructura simulada con pfSense e IDS Snort para detección de tráfico sospechoso y monitorización con Nagios Core.
+- **[Automatización de Backups (Ubuntu → Windows Server)](https://github.com/papgar92/Backup-Ubuntu-Server-Windows-server)** · Script en Bash que automatiza la copia de seguridad vía CIFS/SMB entre Ubuntu y un Windows Server de dominio, con rotación, credenciales protegidas y ejecución por cron.
+- **[SOC Monitoring Lab](https://github.com/papgar92/soc-monitoring-lab)** · Diseño y despliegue de un SOC sobre Proxmox (LXC) con un stack 100% open-source.
+- **[Detector de fuerza bruta SSH (Python)](https://github.com/papgar92/Detector-Fuerza-bruta-SSH)** · Script en Python que analiza logs de autenticación para detectar ataques de fuerza bruta SSH.
 
 ---
 
+## 🔬 Mi laboratorio casero (aprendizaje continuo)
+
+No todo mi aprendizaje vive en repositorios. Para investigar, hacer pruebas de concepto (*PoC*) y aplicar conocimientos nuevos, mantengo un **laboratorio físico** en casa: reacondicioné un portátil obsoleto y dañado a nivel de hardware y lo reconvertí en mi servidor principal (*bare-metal*). En ese entorno he desplegado y administrado:
+
+- 🖥️ **Virtualización:** **Proxmox VE** como hipervisor tipo 1 para gestionar y aislar máquinas virtuales y contenedores LXC.
+- 🐳 **Monitorización en Docker:** **Grafana** y **Prometheus** en contenedores, enfocado en análisis de eventos, *dashboards* y simulación de incidentes.
+- 📊 **Supervisión SNMP:** **Ubuntu Server** con Apache y **Nagios** para monitorizar estado, tráfico y rendimiento del laboratorio y la red local vía SNMP.
+
+---
 
 > *"Siempre buscando nuevos retos en la intersección entre los sistemas, la monitorización y la ciberseguridad."*

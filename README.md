@@ -1,7 +1,8 @@
 # ✨ Pablo Pérez
 ### 📫 Localízame
 
-[![Portfolio](https://img.shields.io/badge/Mi_Portfolio-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white)](https://papgar92.github.io/portfolio/)
+[![Portfolio Infraestructura](https://img.shields.io/badge/Mi_Portfolio-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white)](https://pabloperez-infra.vercel.app/#)
+[![Portfolio Ciberseguridad](https://img.shields.io/badge/Mi_Portfolio-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white)](https://pabloperez-ciber.vercel.app/#)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ppg92)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:perez.gcia+github@gmail.com)
 

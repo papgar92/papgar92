@@ -9,39 +9,50 @@
 
 ---
 
-👨‍💻 **Administrador de Sistemas / Soporte IT** · Entornos Microsoft · Redes y Monitorización
+👨‍💻 **Administrador de Sistemas y Ciberseguridad** · Empresa confidencial, sector Defensa
 
-☁️ Experiencia en Active Directory, virtualización, gestión de identidades y migraciones a Cloud
+🏢 Infraestructura multisede: virtualización, identidad híbrida (Active Directory + Entra ID) y Microsoft 365
 
-🛡️ Con un pie en la ciberseguridad defensiva: me formo en detección y análisis para administrar con criterio de seguridad
+🛡️ Blue team en el día a día: SIEM, monitorización, bastionado y gestión de riesgos orientada al ENS
 
 ---
 
 ### 💡 Sobre mí
 
-- Técnico IT con experiencia en soporte N1-N2 en entornos Microsoft, con fuerte capacidad de análisis y pensamiento crítico.
-- Administración de identidades y dispositivos con **Active Directory**, **Entra ID**, **Intune** y **GPOs**.
-- Me apasiona montar **home labs** para virtualizar, monitorizar infraestructuras (Nagios, Zabbix) y trastear con firewalls (pfSense) — aprendo rompiendo y reconstruyendo.
-- Autónomo, organizado y proactivo, con un interés genuino por la formación continua.
+- Administro la infraestructura IT y el tenant Microsoft 365 de una organización de tres sedes del sector Defensa.
+- He puesto en marcha la **monitorización** (Uptime Kuma, LibreNMS por SNMPv3) y un **SIEM con Wazuh** sobre servidores Linux cifrados y bastionados, con alertas centralizadas por Microsoft Graph.
+- **Bastionado de identidad:** limpieza de grupos privilegiados en Active Directory, Windows LAPS y BitLocker con la clave custodiada en Entra ID.
+- **Copias que se prueban:** copia cifrada del ERP en un NAS aislado y restauraciones verificadas de forma periódica.
+- Documentación como código (Git, ADR, runbooks) y cambios en producción siempre con simulación previa y rollback.
+- Antes: casi 9 años de soporte técnico 24×7 y soporte IT N1-N2 en entornos Microsoft.
 
 ---
 
 ### 🛠️ Tecnologías y Herramientas
 
-**Sistemas y Cloud**
+**Sistemas e identidad**
 ![Windows Server](https://img.shields.io/badge/Windows%20Server-%230078D6.svg?style=for-the-badge&logo=windows&logoColor=white)
-![Azure](https://img.shields.io/badge/microsoft%20azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Microsoft 365](https://img.shields.io/badge/Microsoft%20365-%23D83B01.svg?style=for-the-badge&logo=microsoft&logoColor=white)
+![Entra ID](https://img.shields.io/badge/Entra%20ID-%230078D4.svg?style=for-the-badge&logo=microsoft&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 
-**Redes y Monitorización**
-![pfSense](https://img.shields.io/badge/pfSense-%23000000.svg?style=for-the-badge&logo=pfsense&logoColor=white)
+**Seguridad y monitorización**
+![Wazuh](https://img.shields.io/badge/Wazuh-%233595F9.svg?style=for-the-badge&logoColor=white)
+![Uptime Kuma](https://img.shields.io/badge/Uptime%20Kuma-%235CDD8B.svg?style=for-the-badge&logo=uptimekuma&logoColor=black)
+![LibreNMS](https://img.shields.io/badge/LibreNMS-%23E4610F.svg?style=for-the-badge&logoColor=white)
 ![Zabbix](https://img.shields.io/badge/Zabbix-%23D40000.svg?style=for-the-badge&logo=zabbix&logoColor=white)
 ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white)
 
-**Virtualización y Scripting**
+**Redes**
+![MikroTik](https://img.shields.io/badge/MikroTik-%23293239.svg?style=for-the-badge&logo=mikrotik&logoColor=white)
+![WireGuard](https://img.shields.io/badge/WireGuard-%2388171A.svg?style=for-the-badge&logo=wireguard&logoColor=white)
+![pfSense](https://img.shields.io/badge/pfSense-%23000000.svg?style=for-the-badge&logo=pfsense&logoColor=white)
+
+**Virtualización, contenedores y scripting**
 ![Proxmox](https://img.shields.io/badge/Proxmox-%23E57000.svg?style=for-the-badge&logo=proxmox&logoColor=white)
 ![VMware](https://img.shields.io/badge/vmware-%23607078.svg?style=for-the-badge&logo=vmware&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Bash](https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white)
 
@@ -66,4 +77,4 @@ No todo mi aprendizaje vive en repositorios. Para investigar, hacer pruebas de c
 
 ---
 
-> *"Siempre buscando nuevos retos en la intersección entre los sistemas, la monitorización y la ciberseguridad."*
+> *"Administrar con criterio de seguridad: lo que no se monitoriza, no se protege, y la copia que no se ha restaurado no existe."*
